@@ -1,0 +1,35 @@
+Comment installer le bot ?
+
+1. Créer un fichier sur votre bureau (exemple : support_bot)
+2. Mettre tout les dossiers du bot, dans le dossier créer
+3. Ouvrir le terminal du dossier créer
+4. Effectuer la commande -> npm init
+5. Une fois cela fais, faites -> npm i discord.js
+
+Comment le lancer ? 
+
+1. Configuré tout le dossier config.js
+2. Ouvrir le terminal du dossier 
+3. Effectuer la commande : node index.js
+
+-------------------------------------------------------------------------
+
+How to install the bot?
+
+1. Create a folder on your desktop (example: support_bot)
+2. Place all the bot folders in the folder you created
+3. Open the terminal in the folder you created
+4. Run the command: `npm init`
+5. Once that's done, run: `npm i discord.js`
+
+How to launch it?
+
+1. Configure the entire `config.js` folder
+2. Open the terminal in the folder
+3. Run the command: `node index.js`
+
+---------------------------------------------------------------------------
+
+Comment me contacter ? / How to contact me?
+
+- Discord : neurotixiciter
